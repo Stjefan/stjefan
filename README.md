@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on using THREE.js for a simple digital terrain model
+- 🌱 I’m currently learning THREE.js
+  
 <!--
 **Stjefan/stjefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
