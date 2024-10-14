@@ -1,7 +1,7 @@
 ### Hi there 👋
-- Trying to find a way in the wide world of programming
-- Interested in everything that even nonintellectual people can understand
-- Mostly copy & paste the work of clever people
+- I am Stefan
+- I copy & paste the work of other people
+- I am an AI poweruser
 <!--
 **Stjefan/stjefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
