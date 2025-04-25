@@ -1,7 +1,6 @@
 ### Hi there 👋
 - I am Stefan
-- I copy & paste the work of other people
-- I am an AI poweruser
+- I am an ordinary vibe coder
 <!--
 **Stjefan/stjefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
